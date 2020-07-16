@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 548ba72a2e296a24bbdb9cfe3fb293be, type: 3}
+  m_Name: Glock
+  m_EditorClassIdentifier: 
+  weaponName: Glock
+  weaponSlot: Primary 1
+  weaponPrefab: {fileID: -927199367670048503, guid: 72685ac9c5609064ab2eaa55ed032165,
+    type: 3}
+  weaponOffset: {x: -0.142, y: -0.172, z: 0.979}
+  weaponRotation: {x: 0, y: 0, z: 0, w: 0}
+  minimumDamage: 5
+  maximumDamage: 35
+  maximumRange: 25
